@@ -19,13 +19,13 @@
 define('DB_NAME', 'db_e3d36757');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'user_e3d36757');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'admin');
+define('DB_PASSWORD', 'GD^HnsX7;3235V');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'a.db.shared.orchestra.io');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
